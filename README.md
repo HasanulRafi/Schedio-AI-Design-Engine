@@ -3,7 +3,7 @@ HackNJIT 2024
 
 # Schedio
 
-![Schedio Logo](https://via.placeholder.com/150x150.png?text=Schedio)
+![Schedio Logo](assets/Schedio-logo.png)
 
 Schedio is an AI-powered graphic design platform that enables small business owners and entrepreneurs to create professional-quality designs through natural language inputs. By combining Adobe Express's powerful design capabilities with advanced AI, Schedio makes professional graphic design accessible to everyone, regardless of their design experience.
 

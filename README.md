@@ -1,4 +1,4 @@
-# schedio
+# Schedio
 HackNJIT 2024
 
 # Schedio
